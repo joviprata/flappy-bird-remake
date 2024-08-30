@@ -1,2 +1,2 @@
-# remake-do-flappy-bird
- Demonstração de conhecimentos sobre Pygame para fazer uma cópia do jogo de celular Flappy Bird de Dong Nguyen
+# Flappy Bird Remake
+Demonstration of knowledge in Pygame to create a copy of the mobile game Flappy Bird by Dong Nguyen.
